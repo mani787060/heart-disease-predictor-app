@@ -14,3 +14,4 @@ This is a machine learning web application built using Streamlit to predict whet
 
 ## Project Purpose
 This project demonstrates how a trained machine learning model can be deployed as a web application for real-world usage.
+
